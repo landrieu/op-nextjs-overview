@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "name": "Official WC football 2022",
+        "price": 50,
+        "isActive": true,
+        "image": "fifa_wc_football.jpeg",
+        "description": "70% polyurethane, 20% recycled polyester, 10% viscose cover. Rubber bladder, thermally bonded seamless construction"
+    },
+    {
+        "id": "3",
+        "name": "Running shoes",
+        "price": 40,
+        "isActive": true,
+        "image": "shoes.jpg",
+        "description": "Add flexible comfort to your workouts with the Skechers Track - Front Walking shoe. This lace-up sneaker features soft mesh knit upper with a cushioned Memory Foam insole."
+    },
+    {
+        "id": "4",
+        "name": "Toulouse FC jersey",
+        "price": 90,
+        "isActive": true,
+        "image": "tfc-shirt.png",
+        "description": "100% recycled polyester interlock, moisture-absorbing AEROREADY. Droptail hem, slim fit"
+    }
+]
